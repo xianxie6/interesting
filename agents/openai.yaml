@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interesting 图形"
+  short_description: "从原图提炼真实元素与关系，生成两套极简粗线概念图"
+  default_prompt: "使用 $interesting 提炼这张原图的主体、构图和关系，生成同构图的两套极简手绘配色："
