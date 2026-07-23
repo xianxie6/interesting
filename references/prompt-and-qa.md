@@ -19,7 +19,7 @@ Colorway delivery: render this exact composition as A using {background A name} 
 Line language: stroke width about 1.4%–2.2% of the short edge; rounded caps and joins; controlled natural wobble; nearly constant width; continuous one-stroke feeling.
 Shape language: reduce the source to circles, squares, triangles, steps, irregular paper shapes, simplified silhouettes, dots, and connectors; use a soft hand gesture only when justified.
 Rhythm: one large mass, one medium relationship, and three to five small repeated units; information density 25%–40%.
-Constraints: do not invent a hand, character, object, action, arrow, text, or symbol absent from or unnecessary to the input; no text unless explicitly required; no gradients; no shadows; no texture; no 3D; no realistic perspective; no decorative mini-icons; no more than two core objects and one relationship system; no watermark.
+Constraints: do not invent a hand, character, object, action, arrow, text, or symbol absent from or unnecessary to the input; no text unless explicitly required; no gradients; no shadows; no texture; no 3D; no realistic perspective; no decorative mini-icons; use no more than two semantic cores and one relationship system, while preserving a necessary source collection or framed scene as one core; no watermark.
 Avoid: unrelated metaphors, content drift from the source, perfect vector geometry, thin corporate line icons, glossy UI style, photorealism, childish doodles, decorative clutter, random symbols.
 ```
 
@@ -72,6 +72,7 @@ Use the user's exact concept; do not add unrelated characters, objects, slogans,
 - One dominant judgment is visible.
 - For source-image work, the dominant subject, direction, relative positions, and relationship remain recognizable.
 - No hand, character, object, action, text, or symbol has been invented without justification.
+- Comparison-board labels, logos, split bars, watermarks, and explanatory overlays from calibration assets have not leaked into the output.
 - The palette has no more than three colors and uses exact system colors.
 - Colorways A and B share identical geometry and differ only in their clearly distinct background colors.
 - The background is perfectly flat and texture-free.

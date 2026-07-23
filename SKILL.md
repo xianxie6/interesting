@@ -13,6 +13,8 @@ Read [references/style-language.md](references/style-language.md) completely bef
 
 When generating an image or delivering a production prompt, also read [references/prompt-and-qa.md](references/prompt-and-qa.md) completely.
 
+For source-image transformation, example selection, or an explanation of the style and its use cases, read [references/style-and-use-cases.md](references/style-and-use-cases.md) completely. Inspect only the one or two closest examples routed there from `assets/examples/`. Treat those screenshots as calibration and workflow examples, never as edit targets or content templates.
+
 When visual calibration is useful, inspect [assets/reference-sheet.png](assets/reference-sheet.png) with the local image viewer. Treat it only as a style reference, never as an edit target or content to reproduce literally.
 
 ## Apply defaults
@@ -32,6 +34,8 @@ If the user asks only for a concept, prompt, or art direction, stop before image
 ## Choose the input mode
 
 Use **source-image extraction** whenever the user supplies an image to restyle, simplify, reinterpret, or match. Use **text-to-concept** only when there is no source image or the user explicitly asks to ignore its content.
+
+Use the scene routing in [references/style-and-use-cases.md](references/style-and-use-cases.md) to choose the abstraction density. Treat a triptych, collection, postcard, or framed scene as one semantic core when its identity depends on multiple peer elements.
 
 ### Source-image extraction
 

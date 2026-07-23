@@ -12,6 +12,8 @@ The distinctive feature is not merely thick black outlines. It is the interactio
 
 Hands and other human gestures are optional, not mandatory. For source-image work, preserve the actual content before applying any standard composition or metaphor.
 
+Treat a source collection, triptych, postcard, or framed scene as one semantic core when its identity depends on several peer objects. Preserve the necessary members instead of forcing the source into an arbitrary two-object limit.
+
 ## Color system
 
 Use no more than three colors per image:
@@ -126,6 +128,7 @@ For image inputs, first use **Source-preserving**. Use the other templates only 
 6. **System**: a network sits on a warm-white circle, paper, grid, or repeated module. Use for AI, data, global networks, infrastructure.
 7. **Container**: brackets, house, book, screen, or paper encloses the core. Use for rules, safety, knowledge, code, organization.
 8. **Atlas**: 2×2 or 3×3 symbol grid with at most one accent-colored unit. Use for toolkits, taxonomies, visual indexes.
+9. **Postcard scene**: a frame encloses one anchor subject and several repeated environmental motifs. Use only when the source's identity depends on a dense scene, stamp, postcard, or editorial vignette.
 
 ## Semantic compression
 
@@ -138,7 +141,7 @@ Map:
 
 Then reduce:
 
-- at most two core objects;
+- at most two semantic cores; a necessary collection or framed scene may count as one core;
 - at most one relationship structure;
 - zero hands by default;
 - use one hand only when the source, user, or concept clearly justifies it;
